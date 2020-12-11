@@ -1,3 +1,3 @@
 # NAC
 
-Codes and Dataset will be available soon.
+Codes and datasets will be available soon.

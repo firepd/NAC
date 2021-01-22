@@ -10,7 +10,9 @@ torch
 
 ## Usage
 train and test
-```python train.py
+
+`python train.py`
 
 plot the four figures in our paper
-```python plot.py
+
+`python plot.py`

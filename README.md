@@ -5,7 +5,9 @@ Source code for paper NeuralAC: Learning Cooperation and Competition Effects for
 
 ## Dependencies
 python >= 3.6
+
 pandas
+
 torch
 
 ## Usage
